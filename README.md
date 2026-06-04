@@ -48,12 +48,17 @@ I approach engineering as an internal offering of **Nava-vidhā Bhakti**. My cod
 
   <p align="center">
     <!-- Systems & Low Level -->
+    <img src="https://img.shields.io/badge/C-black?style=flat-square&logo=c&logoColor=%23A8B9CC" />
+    <img src="https://img.shields.io/badge/C%2B%2B-black?style=flat-square&logo=c%2B%2B&logoColor=%2300599C" />
+    <img src="https://img.shields.io/badge/ZIG-black?style=flat-square&logo=zig&logoColor=%23F7A41D" />
     <img src="https://img.shields.io/badge/RUST%20(NO--STD)-black?style=flat-square&logo=rust&logoColor=%23E34C26" />
     <img src="https://img.shields.io/badge/BARE%20METAL-black?style=flat-square&logo=none" />
     <img src="https://img.shields.io/badge/MCU-STM32%20%7C%20ESP32-black?style=flat-square&logo=microchip" />
-    <img src="https://img.shields.io/badge/RTOS-black?style=flat-square&logo=none" />
-    <img src="https://img.shields.io/badge/ASSEMBLY-black?style=flat-square&logo=none" />
-    <img src="https://img.shields.io/badge/LLVM-black?style=flat-square&logo=llvm&logoColor=white" />
+    <br/>
+    <img src="https://img.shields.io/badge/RTOS-FREERTOS%20%7C%20ZEPHYR-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/ASSEMBLY-X86%20%7C%20ARM-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/LLVM%20%7C%20GCC-black?style=flat-square&logo=llvm&logoColor=white" />
+    <img src="https://img.shields.io/badge/MAKE%20%7C%20CMAKE-black?style=flat-square&logo=cmake&logoColor=%23064F8C" />
     <br/>
     <!-- Infrastructure & SBC -->
     <img src="https://img.shields.io/badge/KUBERNETES-black?style=flat-square&logo=kubernetes&logoColor=%23326CE5" />
