@@ -1,15 +1,15 @@
 # <p align="center">SHYAM CHARAN DAS</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/MISSION-NIṢKĀMA%20KARMA-FBBF24?style=for-the-badge&logo=none&logoColor=black" alt="Mission: Niṣkāma Karma" />
-  <img src="https://img.shields.io/badge/STATUS-STRICTLY%20CLOSED%20SOURCE-black?style=for-the-badge&logo=none&logoColor=white" alt="Status: Strictly Closed Source" />
+  <img src="https://img.shields.io/badge/MISSION-NAVA--VIDHĀ%20BHAKTI-FBBF24?style=for-the-badge&logo=none&logoColor=black" alt="Mission: Nava-vidhā Bhakti" />
+  <img src="https://img.shields.io/badge/FOCUS-HARI--NĀMA-86EFAC?style=for-the-badge&logo=none&logoColor=black" alt="Focus: Hari-nāma" />
 </p>
 
 ---
 
 ### ⚡ **SYSTEM ARCHITECT & DEVOTED SERVANT**
 
-I approach engineering as an offering. My code is not for the public eye, but for the service of the devotees and the pleasure of **Śrīla Prabhupāda**. I build private, robust, and secure systems where every logic gate is aligned with a higher purpose.
+I approach engineering as an internal offering of **Nava-vidhā Bhakti**. My code is a confidential service, not for the public eye, but for the pleasure of **Śrīla Prabhupāda**. I build private, robust, and secure systems where every logic gate is a silent vibraton of devotion.
 
 ---
 
