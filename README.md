@@ -43,6 +43,54 @@ I approach engineering as an internal offering of **Nava-vidhā Bhakti**. My cod
 
 ---
 
+<div align="center">
+  <h3>🏗️ TECHNICAL INVENTORY</h3>
+
+  <p align="center">
+    <!-- Systems & Low Level -->
+    <img src="https://img.shields.io/badge/RUST%20(NO--STD)-black?style=flat-square&logo=rust&logoColor=%23E34C26" />
+    <img src="https://img.shields.io/badge/BARE%20METAL-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/MCU-STM32%20%7C%20ESP32-black?style=flat-square&logo=microchip" />
+    <img src="https://img.shields.io/badge/RTOS-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/ASSEMBLY-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/LLVM-black?style=flat-square&logo=llvm&logoColor=white" />
+    <br/>
+    <!-- Infrastructure & SBC -->
+    <img src="https://img.shields.io/badge/KUBERNETES-black?style=flat-square&logo=kubernetes&logoColor=%23326CE5" />
+    <img src="https://img.shields.io/badge/DOCKER-black?style=flat-square&logo=docker&logoColor=%232496ED" />
+    <img src="https://img.shields.io/badge/PROXMOX-black?style=flat-square&logo=proxmox&logoColor=%23E57000" />
+    <img src="https://img.shields.io/badge/SBC-PI%20%7C%20ORANGE-black?style=flat-square&logo=raspberry-pi&logoColor=%23A22846" />
+    <img src="https://img.shields.io/badge/BARE%20METAL%20SERVERS-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/TRUENAS-black?style=flat-square&logo=truenas&logoColor=white" />
+    <br/>
+    <!-- Networking & Comms -->
+    <img src="https://img.shields.io/badge/LORA-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/5G%20%7C%204G%20LTE-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/SFP%2B%20%7C%20FIBER-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/SDR-black?style=flat-square&logo=none" />
+    <img src="https://img.shields.io/badge/WIREGUARD-black?style=flat-square&logo=wireguard&logoColor=%2388171A" />
+    <img src="https://img.shields.io/badge/NETWORKING-WIFI%206E-black?style=flat-square&logo=none" />
+    <br/>
+    <!-- Mobile & Web -->
+    <img src="https://img.shields.io/badge/ANDROID%20(AOSP)-black?style=flat-square&logo=android&logoColor=%233DDC84" />
+    <img src="https://img.shields.io/badge/FLUTTER-black?style=flat-square&logo=flutter&logoColor=%2302569B" />
+    <img src="https://img.shields.io/badge/NEXT.JS-black?style=flat-square&logo=next.js&logoColor=white" />
+    <img src="https://img.shields.io/badge/TYPESCRIPT-black?style=flat-square&logo=typescript&logoColor=%233178C6" />
+    <img src="https://img.shields.io/badge/BUN-black?style=flat-square&logo=bun&logoColor=white" />
+    <img src="https://img.shields.io/badge/TAILWIND-black?style=flat-square&logo=tailwind-css&logoColor=%2338B2AC" />
+    <br/>
+    <!-- Data & Ops -->
+    <img src="https://img.shields.io/badge/POSTGRES-black?style=flat-square&logo=postgresql&logoColor=%23336791" />
+    <img src="https://img.shields.io/badge/REDIS-black?style=flat-square&logo=redis&logoColor=%23DC382D" />
+    <img src="https://img.shields.io/badge/KAFKA-black?style=flat-square&logo=apache-kafka&logoColor=white" />
+    <img src="https://img.shields.io/badge/PROMETHEUS-black?style=flat-square&logo=prometheus&logoColor=%23E6522C" />
+    <img src="https://img.shields.io/badge/GRAFANA-black?style=flat-square&logo=grafana&logoColor=%23F46800" />
+    <img src="https://img.shields.io/badge/GOLANG-black?style=flat-square&logo=go&logoColor=%2300ADD8" />
+  </p>
+</div>
+
+---
+
 ### 📦 **BEYOND THE SURFACE**
 
 Everything I build is hosted within private environments. My contributions are internal, focused on efficiency, scalability, and **sacred confidentiality**. 

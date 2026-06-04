@@ -126,6 +126,34 @@ ul li::before {
     content: "> ";
 }
 
+#tech-expanse {
+    margin-top: 30px;
+}
+
+.tag-cloud {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    font-family: 'Space Mono', monospace;
+    font-weight: 700;
+}
+
+.tag-cloud span {
+    background: var(--white);
+    border: 2px solid var(--black);
+    padding: 5px 12px;
+    font-size: 0.8rem;
+    box-shadow: 4px 4px 0px 0px var(--black);
+    transition: all 0.1s ease;
+}
+
+.tag-cloud span:hover {
+    background: var(--black);
+    color: var(--white);
+    transform: translate(2px, 2px);
+    box-shadow: none;
+}
+
 footer {
     display: flex;
     justify-content: space-between;
